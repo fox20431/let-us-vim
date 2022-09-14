@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/ming/projects/jupyter-notebook'
+let g:netrw_dirhist_6='/Users/ming/.bash_profile.d'
+let g:netrw_dirhist_5='/Users/ming/.bash_completion.d'
+let g:netrw_dirhist_4='/usr/local/etc/v2ray'
+let g:netrw_dirhist_3='/Users/ming/.bash_completion.d'
+let g:netrw_dirhist_2='/Library/Java/JavaVirtualMachines'
+let g:netrw_dirhist_1='/usr/local/etc/v2ray'
